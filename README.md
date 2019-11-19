@@ -1,6 +1,6 @@
 # Proyecto-Integrador-2
 
-En este trabajo se centrará en la rotación temprana (menor o igual a doces meses) de la organización Konecta, para esto se utilizaron técnicas de aprendizaje supervisado y no supervisados; el desarrollo del proyecto se ejecutó en notebook de Jupyter (Python) y en RStudio.
+En este trabajo se desarrollara un análsis en la rotación temprana (menor o igual a doces meses) de la organización Konecta, para esto se utilizaron técnicas de aprendizaje supervisado y no supervisados; el desarrollo del proyecto se ejecutó en notebook de Jupyter (Python) y en RStudio.
 En este github se encuentra los siguientes archivos:
 1.	BD_Rubik_V1_transformadaf (Base de Datos)
 2.	PI Cluster.R, Código de Clusters (Aprendizaje no supervisado) y análisis de supervivencia en RStudio
