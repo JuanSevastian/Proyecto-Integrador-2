@@ -7,3 +7,4 @@ En este github se encuentra los siguientes archivos:
 3.	PI final-v2.ipynb, Notebook de Jupyter (Python) (Aprendizaje supervisado)
 4.	Carpeta métodos, en esta carpeta se guarda los mejores modelos en formato .SAV
 5. PI2_Konecta.pdf, es el informe del proyecto integrador.
+6. Presentación
